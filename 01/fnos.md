@@ -21,6 +21,7 @@
 + 正版免费：系统是正版免费软件，专为个人用户设计，不得用于商业用途。
 
 ## fnOS下载和安装
+
 fnOS的系统安装镜像可以从 [fnOS官网](https://www.fnnas.com/) 下载
 ![fnOS官网](image-18.png)
 
