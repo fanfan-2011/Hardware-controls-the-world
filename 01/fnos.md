@@ -28,13 +28,15 @@ fnOS提供了非常方便的安装方式，简直就是“傻瓜式”安装，�
 
 VM Ware安装包可以到 [VM Ware官网](https://www.vmware.com/) 下载安装
 如果找不到的话可以在 [联想应用商店](https://lestore.lenovo.com/detail/21600) 里下载最新版（都是正版）
-![alt text][image]
+![安装VM Ware](image.png)
 
-1. 打开安装包，
+1. 打开安装包
 
-[image]: image.png
-![alt text](image-1.png)
-下一步，勾选“我接受”![alt text](image-2.png)
-剩下的一路默认即可，等待安装完成即可
-![alt text](image-4.png)
-![alt text](image-5.png)
+![打开安装包](image-1.png)
+下一步，勾选“我接受”![打开安装包](image-2.png)
+剩下的一路默认，等待安装完成即可
+![安装1](image-4.png)
+![安装2](image-5.png)
+1. 打开软件，点击“我是个人用户”，来到主界面。（我用的是WORKSTATION PRO® 17版本）
+![主界面](image-6.png)
+点击“创建新的虚拟机”![创建新的虚拟机](image-7.png)
